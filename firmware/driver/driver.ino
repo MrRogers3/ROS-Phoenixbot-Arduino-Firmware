@@ -1,6 +1,8 @@
 #include <Servo.h>
 #define ZEROPOINT 1500
 #define BUFF_SIZE 64
+//HI MY NAME IS JR3
+
 //#define DEBUG
 
 //drive 7 & 11, unused 12-13 & 44-46
